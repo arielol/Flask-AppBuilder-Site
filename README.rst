@@ -10,3 +10,7 @@ How to contribute:
 * `export FLASK_APP=__init.py`
 * `export FLASK_ENV=development`
 * `python -m flask run`
+
+In Windows CMD -> (export=set)
+Example:
+Path// > set FLASK_ENV=development
